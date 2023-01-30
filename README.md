@@ -1,10 +1,11 @@
 ## 🤖 Olá, meu nome é <strong> Jonathan Felix !</strong>
 
 
+🙋 Olá, sou o Jonathan, tenho 24 anos, comecei na programação independente e atualmente estudo ADS.  
 
-💻 Estudante de Análise e Desenovlivimento de Sistemas | 2º Período
+💻 Estudante de Análise e Desenvolvimento de Sistemas | 2º Período
 
-👨‍💻 Ultimamente venho desenvolvendo plugins e aplicações WEB e em Python para o dia a dia.
+👨‍💻 Venho desenvolvendo e aplicações WEB e códigos em Python para o dia a dia.
 
 
 
