@@ -1,7 +1,7 @@
 ## 🤖 Olá, meu nome é <strong> Jonathan Felix !</strong>
 
 
-🙋 Olá, sou o Jonathan, tenho 24 anos, comecei na programação independente e atualmente estudo ADS.  
+🙋 Olá, sou o Jonathan, tenho 24 anos, amante da tecnologia e fã de jogos.  
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas | 2º Período
 
