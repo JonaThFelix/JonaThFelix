@@ -3,10 +3,9 @@
 
 🙋 Olá, sou o Jonathan, tenho 24 anos, amante da tecnologia e fã de jogos.  
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas | 2º Período
+💻 Estudante de Análise e Desenvolvimento de Sistemas 
 
-👨‍💻 Venho desenvolvendo e aplicações WEB e códigos em Python para o dia a dia.
-
+👨‍💻 Através dia a dia, acabo desenvolvendo algumas aplicações que me auxiliam na rotina de estudante, compartilho os códigos para poder auxiliar mais pessoas e expandir mais a comunidade dev.
 
 
 </br>
