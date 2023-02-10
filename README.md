@@ -1,4 +1,4 @@
-##  Olá, sou o <strong> Jonathan Felix !!! </strong>
+## 🖐🏼 Olá, sou o <strong> Jonathan Felix !!! </strong>
 
 
 🙋 Recifense/PE, 24 anos, Amante da tecnologia, Música e fã de Jogos.  
