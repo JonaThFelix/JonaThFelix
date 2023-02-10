@@ -29,12 +29,18 @@
 
 ## 🧑‍💻 Rede Sociais!
 
-👔 [linkedin]
+<code><img height="32" src="https://user-images.githubusercontent.com/123984244/217980969-82e779fd-5d40-4b9c-b1bd-1a7f772d91f8.png" alt="linkedin"/></code>
 
 
 </br>
 </br>
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonaThFelix&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonaThFelix&show_icons=true&theme=dark)
+</br>
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonaThFelix&layout=compact&theme=dark)](https://github.com/JonaThFelix/github-readme-stats)
+
+</br>
+
 
