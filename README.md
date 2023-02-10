@@ -1,7 +1,7 @@
 ## 🤖 Olá, meu nome é <strong> Jonathan Felix !</strong>
 
 
-🙋 Olá, sou o Jonathan, tenho 24 anos, amante da tecnologia e fã de jogos.  
+🙋 Olá, sou o Jonathan, tenho 24 anos, amante da tecnologia e adoro jogos.  
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas 
 
