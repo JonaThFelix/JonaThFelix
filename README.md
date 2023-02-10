@@ -30,7 +30,7 @@
 ## 🧑‍💻 Rede Sociais!
 
 <code>
-  <img height="30" src="https://user-images.githubusercontent.com/123984244/217980969-82e779fd-5d40-4b9c-b1bd-1a7f772d91f8.png" alt="linkedin"/>
+  <img height="30" src="https://user-images.githubusercontent.com/123984244/217980969-82e779fd-5d40-4b9c-b1bd-1a7f772d91f8.png"/>
   <a href="https://www.linkedin.com/in/jonathan-felix-a7439119b/">
   </a>
 </code>
