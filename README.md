@@ -29,7 +29,11 @@
 
 ## 🧑‍💻 Rede Sociais!
 
-<code><img height="32" src="https://user-images.githubusercontent.com/123984244/217980969-82e779fd-5d40-4b9c-b1bd-1a7f772d91f8.png" alt="linkedin" href="https://www.linkedin.com/in/jonathan-felix-a7439119b/"/></code>
+<code>
+  <img height="30" src="https://user-images.githubusercontent.com/123984244/217980969-82e779fd-5d40-4b9c-b1bd-1a7f772d91f8.png" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/jonathan-felix-a7439119b/">
+  </a>
+</code>
 
 
 </br>
