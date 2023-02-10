@@ -24,7 +24,7 @@
 </br>
 
 
-[linkedin]: https://www.linkedin.com/in/jonathan-felix-a7439119b/
+<!--[linkedin]: https://www.linkedin.com/in/jonathan-felix-a7439119b/ -->
 <br>
 
 ## 🧑‍💻 Rede Sociais!
