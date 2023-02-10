@@ -27,7 +27,7 @@
 ## 🧑‍💻 Rede Sociais!
 
  <div>
- <a href="https://www.linkedin.com/in/jonathan-felix-a7439119b/" target="_blank"><img height ="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="_blank">
+ <a href="https://www.linkedin.com/in/jonathan-felix-a7439119b/" target="blank"><img height ="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="blank">
  
  </div>
 
