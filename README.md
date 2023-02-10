@@ -24,16 +24,13 @@
 </br>
 
 
-<!--[linkedin]: https://www.linkedin.com/in/jonathan-felix-a7439119b/ -->
-<br>
-
 ## 🧑‍💻 Rede Sociais!
 
-<code>
-  <img height="30" src="https://user-images.githubusercontent.com/123984244/217980969-82e779fd-5d40-4b9c-b1bd-1a7f772d91f8.png"/>
-  <a href="https://www.linkedin.com/in/jonathan-felix-a7439119b/">
-  </a>
-</code>
+ <div>
+ <a href="https://www.linkedin.com/in/jonathan-felix-a7439119b/" target="_blank"><img height ="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="_blank">
+ 
+ </div>
+
 
 
 </br>
