@@ -28,7 +28,9 @@
 </br>
 </br>
 
+
 ## 💻 Principais Linguagens
+
 
 <div align="center">
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"/></code>
@@ -44,7 +46,7 @@
 
 ## 🌎 Rede Sociais!
 
- <div>
+ <div align="center">
  <a href="https://www.linkedin.com/in/jonathan-felix-a7439119b/" target="blank"><img height ="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="blank">
  
  </div>
