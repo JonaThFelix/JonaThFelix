@@ -44,4 +44,6 @@
 
 </br>
 
+<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/JonaThFelix/count.svg"/></p>
+
 
