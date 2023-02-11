@@ -1,4 +1,21 @@
-## 🖐🏼 Olá, sou o <strong> Jonathan Felix !!! </strong>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Jonathan+Felix;)](https://git.io/typing-svg)
+
+</br>
+
+<div align="center">
+  <a href="https://github.com/JonaThFelix">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonaThFelix&layout=compact&langs_count=7&theme=dark"/>
+</div> 
+
+
+<!-- ## Seja bem-vindo(a) ao meu <strong> Github !!! </strong> -->
+
+</br>
+</br>
+
+##
 
 
 🙋 Recifense/PE, 24 anos, Amante da tecnologia, Música e fã de Jogos.  
