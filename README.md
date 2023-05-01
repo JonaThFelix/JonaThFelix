@@ -58,6 +58,6 @@
 
 
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/JonaThFelix/count.svg"/></p>
-
+![snage_gif](https://github.com/JonaThFelix/JonaThFelix/blob/output/github-contribution-grid-snake.svg)
 
 
