@@ -15,10 +15,10 @@
 </br>
 </br>
 
-##
+## 😊 Sobre mim
 
 
-🙋 Recifense/PE, 24 anos, Amante da tecnologia, Música e fã de Jogos λ.  
+🙋 Recife/PE, 24 anos, Amante da tecnologia, Música e fã de Jogos λ.  
 
 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas 
 
