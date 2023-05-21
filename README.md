@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f0f6a&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=<Olá,+Meu+Nome+é+Jonathan+Felix>;)](https://git.io/typing-svg)
 
@@ -63,4 +63,4 @@
 
 
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/JonaThFelix/count.svg"/></p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f0f6a&height=120&section=footer"/>
