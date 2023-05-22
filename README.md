@@ -80,7 +80,7 @@
     </a>
   
   <a href="https://replit.com/@AkhennatoN" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/replit-4908d7?style=for-the-badge&logo=linkedin&logoColor=white" alt="Replit" />
+        <img src="https://img.shields.io/badge/replit-4908d7?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
     </a>
  
  </div>
