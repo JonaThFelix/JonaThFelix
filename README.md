@@ -75,7 +75,13 @@
 ## 🌎 Rede Sociais!
 
  <div align="center">
- <a href="https://www.linkedin.com/in/jonathan-felix-a7439119b/" target="blank"><img height ="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="blank">
+ <a href="https://www.linkedin.com/in/jonathan-felix-a7439119b/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/linkedin-1a31c3?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    </a>
+  
+  <a href="https://replit.com/@AkhennatoN" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/replit-4908d7?style=for-the-badge&logo=linkedin&logoColor=white" alt="Replit" />
+    </a>
  
  </div>
 
