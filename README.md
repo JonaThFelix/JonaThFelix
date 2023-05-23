@@ -32,7 +32,7 @@
 </br>
 
 
-## 💻 Principais Linguagens
+## 💻 Linguagens e Tecnologias
 
 
 <p>
