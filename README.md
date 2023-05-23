@@ -59,7 +59,7 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
     </a>
     <a href="" target="_blank" rel="Python">
-        <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Python-008000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </a>
     <a href="" target="_blank" rel="MySQL">
         <img src="https://img.shields.io/badge/mysql-563D7C?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
