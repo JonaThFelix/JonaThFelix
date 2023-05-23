@@ -7,16 +7,25 @@
 
 </br>
 </br>
+</br>
 
 <div align="center">  
   <img  src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/> 
-
-
-
-
+ 
 </br>
 </br>
+</br>
+<div align="center">
+  <a href="https://github.com/JonaThFelix">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonaThFelix&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+ </br>
+</br>
 
+<a href="http://www.github.com/JonaThFelix">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonaThFelix&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 
 
 ## Sobre mim 👋🏽
