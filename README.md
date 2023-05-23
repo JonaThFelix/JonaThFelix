@@ -28,12 +28,16 @@
 </a>
 
 
-## Sobre mim 👋🏽
->📌 Recife, Pernambuco 
+## 👋Sobre mim 
+</br>
 
+> 📌 Olá, me chamo Jonathan, 24 anos, Recife, Pernambuco 
+> 
 > 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas 
-
-> 👾 Através do dia a dia venho estudando e desenvolvendo aplicações para melhor contrubuição na comunidade. 
+> 
+> 🗺️ Através do dia a dia venho estudando e desenvolvendo aplicações para melhor contrubuição na comunidade. 
+> 
+> 🎮 Fã de jogos e da Valve λ
 
 
 
