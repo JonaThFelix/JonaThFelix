@@ -65,6 +65,10 @@
     <a href="" target="_blank" rel="MySQL">
         <img src="https://img.shields.io/badge/mysql-563D7C?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </a>
+  
+  <a href="" target="_blank" rel="MariaDB">
+        <img src="https://img.shields.io/badge/mariadb-FF6347?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+    </a>
 </p>
 
 </br>
