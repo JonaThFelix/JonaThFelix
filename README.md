@@ -38,7 +38,7 @@
 > 
 > 🗺️ Através do dia a dia venho estudando e desenvolvendo aplicações para melhor contrubuição na comunidade. 
 > 
-> 🎮 Fã de jogos e da Valve λ
+> 🎮 I λ Games
 
 
 
