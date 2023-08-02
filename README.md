@@ -87,7 +87,14 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
- 
+</br>
+</br>
+
+ ## 🧑🏽‍💻 Meu Portifólio
+ <p>
+    <a href="https://jonathfelix.github.io/Portifolio/" target="_blank" rel="Portifolio">
+        <img src="https://img.shields.io/badge/Portifolio-ffffff?style=for-the-badge&logo=react&logoColor=black"/>
+    </a>
 
 
      
