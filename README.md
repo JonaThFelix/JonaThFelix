@@ -62,6 +62,9 @@
     <a href="" target="_blank" rel="Python">
         <img src="https://img.shields.io/badge/Python-008000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </a>
+    <a href="" target="_blank" rel="Java">
+        <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=000000" alt="Java" />
+    </a>
     <a href="" target="_blank" rel="MySQL">
         <img src="https://img.shields.io/badge/mysql-563D7C?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </a>
