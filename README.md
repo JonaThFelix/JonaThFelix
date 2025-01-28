@@ -34,7 +34,7 @@
 ## 👋Sobre mim 
 </br>
 
-> 📌 Olá, me chamo Jonathan, 25 anos, Recife, Pernambuco 
+> 📌 Olá, me chamo Jonathan, 26 anos, Recife, Pernambuco 
 > 
 > 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas 
 > 
