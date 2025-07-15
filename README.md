@@ -26,9 +26,9 @@
  </br>
 </br>
 
-<a href="http://www.github.com/JonaThFelix">
+<!--<a href="http://www.github.com/JonaThFelix">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonaThFelix&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+</a> -->
 
 
 ## 👋Sobre mim 
@@ -100,17 +100,3 @@
     <a href="https://jonathfelix.github.io/Portifolio/" target="_blank" rel="Portifolio">
         <img src="https://img.shields.io/badge/Portifolio-ffffff?style=for-the-badge&logo=react&logoColor=black"/>
     </a>
-
-
-     
-
-
-</br>
-</br>
-
-## 
-
-
-<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/JonaThFelix/count.svg"/></p>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
-
